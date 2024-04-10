@@ -1,4 +1,4 @@
-# SIMO
+# SIMO: Spline-based Interface Modeling and Optimization
 Surface Tension and Contact Angle Calculation from Droplet Images
 
 Spline-based Interface Modeling and Optimization (SIMO) is a GUI tool to compute surface tension and contact angle from the profiles of sessile and pendant drops of various sizes. The strategy employed in the tool models the profile using a vector-parameterized cubic spline, which is then evolved to the eventual equilibrium shape using a novel thermodynamic free-energy minimization-based iterative algorithm
